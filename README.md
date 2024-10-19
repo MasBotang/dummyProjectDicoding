@@ -1,7 +1,7 @@
 #Dummy Project: Todo List
 This website is designed to help users manage their task lists (todo lists). The project includes several key features that will make it easier for users to add, mark, and delete completed tasks.
 
-![image](https://github.com/user-attachments/assets/021e5224-75e2-42b3-99cf-65454133b03d)
+![image](https://github.com/user-attachments/assets/efbb1521-4e5b-45c3-92d5-a2fc8bfb5c5f)
 
 Key Features
 Input Todo:
